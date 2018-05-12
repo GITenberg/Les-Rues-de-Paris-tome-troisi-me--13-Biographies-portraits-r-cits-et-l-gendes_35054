@@ -1,0 +1,30 @@
+_repo: Les-Rues-de-Paris-tome-troisi-me--13-Biographies-portraits-r-cits-et-l-gendes_35054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouniol, Bathild
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '37430'
+    url: http://www.gutenberg.org/2009/agents/37430
+description: ''
+gutenberg_bookshelf:
+- FR Villes
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35054'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Streets -- France -- Paris'
+- !lcsh 'France -- Biography'
+title: "Les Rues de Paris, tome troisième\r\nBiographies, portraits, récits et légendes"
+url: http://www.gutenberg.org/ebooks/35054
