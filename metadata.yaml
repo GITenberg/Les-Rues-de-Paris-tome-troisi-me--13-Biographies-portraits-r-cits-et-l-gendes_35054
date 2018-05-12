@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37430'
     url: http://www.gutenberg.org/2009/agents/37430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35054#Les-Rues-de-Paris-tome-troisi-me--13-Biographies-portraits-r-cits-et-l-gendes
 gutenberg_bookshelf:
 - FR Villes
 - FR Biographie, Mémoires, Journal intime, Correspondance
